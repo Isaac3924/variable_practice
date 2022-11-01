@@ -10,3 +10,6 @@ float_1 = 3.69
 float_2 = 9.25
 float_3 = 72.03
 
+bool_1 = true
+bool_2 = true
+bool_3 = false
